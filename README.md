@@ -1,6 +1,6 @@
-# flutter_app
+# stikomart
 
-Stikomart Mobile Apps
+Stikomart Base
 
 ## Getting Started
 
